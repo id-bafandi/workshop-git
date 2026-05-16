@@ -1,4 +1,4 @@
-# service.py - Menghitung Luas Lingkaran
+#Menghitung Luas Lingkaran
 import math
 
 def hitung_luas_lingkaran(jari_jari):
